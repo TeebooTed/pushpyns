@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-label="Pushpyns">
+  <title>Pushpyns</title>
+  <g transform="translate(8,18) scale(1.15)">
+    <path fill="#0C6FBE" d="M54,20c-12.2,0 -22,9.6 -22,21.5C32,58.2 54,86 54,86s22,-27.8 22,-44.5C76,29.6 66.2,20 54,20z"/>
+    <circle cx="54" cy="41.5" r="8" fill="#F7F9FC"/>
+  </g>
+  <text x="148" y="102" fill="#F7F9FC" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="560" letter-spacing="1">pushpyns</text>
+</svg>

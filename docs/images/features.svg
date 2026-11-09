@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="368" viewBox="0 0 1120 368" role="img" aria-label="Pushpyns flow: save a pyn, open a work order, capture a signature, share the PDF">
+  <title>From a pin on the map to a signed PDF</title>
+  <rect width="1120" height="368" rx="24" fill="#F7F9FC" stroke="#D5DEE8" stroke-width="1"/>
+  <text x="560.0" y="36" text-anchor="middle" fill="#16324F" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="650">From a pin on the map to a signed PDF</text>
+  <text x="560.0" y="62" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="14">What version 1 already does, on the phone, with no account server.</text>
+  <rect x="28" y="86" width="239" height="250" rx="18" fill="#FFFFFF" stroke="#D5DEE8" stroke-width="1"/>
+
+        <circle cx="147.5" cy="138" r="26" fill="#F7F9FC"/>
+        <g transform="translate(133.0,116) scale(0.54)">
+          <path fill="#0C6FBE" d="M54,20c-12.2,0 -22,9.6 -22,21.5C32,58.2 54,86 54,86s22,-27.8 22,-44.5C76,29.6 66.2,20 54,20z"/>
+          <circle cx="54" cy="41.5" r="8" fill="#F7F9FC"/>
+        </g>
+  <circle cx="54" cy="112" r="11" fill="#084E86"/>
+  <text x="54" y="116.5" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">1</text>
+  <text x="147.5" y="190" text-anchor="middle" fill="#16324F" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="650">Save a pyn</text>
+  <text x="147.5" y="218" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Address, coordinates, notes,</text>
+  <text x="147.5" y="236" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">categories, and up to eight</text>
+  <text x="147.5" y="254" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">photos.</text>
+  <path d="M275 204.0 L293 211.0 L275 218.0" fill="#0C6FBE" fill-opacity="0.85"/>
+  <rect x="303" y="86" width="239" height="250" rx="18" fill="#FFFFFF" stroke="#D5DEE8" stroke-width="1"/>
+
+        <circle cx="422.5" cy="138" r="26" fill="#F7F9FC"/>
+        <g fill="none" stroke="#0C6FBE" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+          <rect x="411.5" y="125" width="22" height="26" rx="3"/>
+          <path d="M416.5 131h12M416.5 137h12M416.5 143h8"/>
+        </g>
+  <circle cx="329" cy="112" r="11" fill="#084E86"/>
+  <text x="329" y="116.5" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">2</text>
+  <text x="422.5" y="190" text-anchor="middle" fill="#16324F" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="650">Open a work order</text>
+  <text x="422.5" y="218" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Customer, job notes,</text>
+  <text x="422.5" y="236" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">optional line items and</text>
+  <text x="422.5" y="254" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">photos, and an optional link</text>
+  <text x="422.5" y="272" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">to a pyn.</text>
+  <path d="M550 204.0 L568 211.0 L550 218.0" fill="#0C6FBE" fill-opacity="0.85"/>
+  <rect x="578" y="86" width="239" height="250" rx="18" fill="#FFFFFF" stroke="#D5DEE8" stroke-width="1"/>
+
+        <circle cx="697.5" cy="138" r="26" fill="#F7F9FC"/>
+        <g fill="none" stroke="#0C6FBE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M685.5 146 c 6,-14 8,8 14,-6 4,-9 6,2 10,0"/>
+          <path d="M685.5 150 h24" stroke-width="1.6"/>
+        </g>
+  <circle cx="604" cy="112" r="11" fill="#084E86"/>
+  <text x="604" y="116.5" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">3</text>
+  <text x="697.5" y="190" text-anchor="middle" fill="#16324F" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="650">Capture a signature</text>
+  <text x="697.5" y="218" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Read the terms with the</text>
+  <text x="697.5" y="236" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">customer, then take a</text>
+  <text x="697.5" y="254" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">signature on the phone.</text>
+  <path d="M825 204.0 L843 211.0 L825 218.0" fill="#0C6FBE" fill-opacity="0.85"/>
+  <rect x="853" y="86" width="239" height="250" rx="18" fill="#FFFFFF" stroke="#D5DEE8" stroke-width="1"/>
+
+        <circle cx="972.5" cy="138" r="26" fill="#F7F9FC"/>
+        <g fill="none" stroke="#0C6FBE" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+          <path d="M964.5 124 h10 l8 8 v18 a2 2 0 0 1 -2 2 h-16 a2 2 0 0 1 -2 -2 v-24 a2 2 0 0 1 2 -2z"/>
+          <path d="M974.5 124 v8 h8"/>
+        </g>
+  <circle cx="879" cy="112" r="11" fill="#084E86"/>
+  <text x="879" y="116.5" text-anchor="middle" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="700">4</text>
+  <text x="972.5" y="190" text-anchor="middle" fill="#16324F" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="650">Share the PDF</text>
+  <text x="972.5" y="218" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Business name, charges,</text>
+  <text x="972.5" y="236" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">photos, signature, and time,</text>
+  <text x="972.5" y="254" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">through the Android share</text>
+  <text x="972.5" y="272" text-anchor="middle" fill="#4A5B6B" font-family="ui-sans-serif, system-ui, Segoe UI, Helvetica, Arial, sans-serif" font-size="13">sheet.</text>
+</svg>
