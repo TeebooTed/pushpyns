@@ -1,0 +1,62 @@
+name: Bug report
+description: Something in the app does the wrong thing.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to write this down. A bug we can reproduce is a bug we can fix.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what the app did instead.
+      placeholder: I sorted My Pyns by distance with location off, and the list...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the app with an empty profile
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: Pixel 8, Android 16
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: App version or commit
+      description: From Settings, or the git SHA you built.
+      placeholder: 1.0.0 or efd715e
+    validations:
+      required: false
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Map / location
+        - Pyns
+        - Categories
+        - Work orders / PDF
+        - Pro preview
+        - Build or tests
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Logs or screenshots
+      description: Paste a stack trace if you have one. Do not include API keys, signatures, or customer details.
+    validations:
+      required: false

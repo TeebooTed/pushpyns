@@ -1,0 +1,43 @@
+name: Feature request
+description: A change that would make Pushpyns more useful.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Feature requests are welcome. If this matches an item in the roadmap or in `docs/GOOD_FIRST_ISSUES.md`, say which one.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Who is stuck, and what are they trying to do?
+      placeholder: A tech in the field wants to...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should the app do? Mention screens if you know them.
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Where it belongs
+      options:
+        - v1 polish (local app)
+        - Cloud sync / accounts
+        - Billing
+        - Web or iOS
+        - Docs or tests
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you considered
+    validations:
+      required: false
